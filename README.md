@@ -1,4 +1,4 @@
-# EmptyReactNativeApp
+# Covac App
 
 
 ## One STOP app for getting vaccinated
